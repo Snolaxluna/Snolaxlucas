@@ -1,10 +1,10 @@
-## Oi eu sou o Luna Solanich!👋
+## Oi eu sou a Luna Solanich!👋
 
 
 
 - 🔭 Atualmente trabalho como assistente adiministrativo visando um trabalho na area da tecnologia!
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudo JAVA!
+- 🌱 Estudo JAVA e PYTHON!
 - 🤔 Procuro evoluir na carreira de desenvolvimento.
 - 📫 E-mail: lucassolanich1987@gmail.com 
 <div align="center">
@@ -14,6 +14,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="lu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="lu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
   
   ##
