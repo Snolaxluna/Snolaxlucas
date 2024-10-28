@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como assistente adiministrativo visando um trabalho na area da tecnologia!
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudo JAVA e PYTHON!
+- 🌱 Estudo com foco em Back-end!
 - 🤔 Procuro evoluir na carreira de desenvolvimento.
 - 📫 E-mail: lucassolanich1987@gmail.com 
 <div align="center">
